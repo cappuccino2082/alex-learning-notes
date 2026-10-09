@@ -7,3 +7,4 @@
 ## 筆記
 
 - [2026-10-09｜一個 189 星的小項目，解開了卡住很久的聲音問題](notes/2026-10-09-omnivoice-cpp.md)
+- [2026-10-09｜影片渲染的關鍵詞不是「生成」，是「確定性」](notes/2026-10-09-hyperframes-deterministic-video.md)
