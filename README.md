@@ -10,3 +10,4 @@
 - [2026-10-09｜影片渲染的關鍵詞不是「生成」，是「確定性」](notes/2026-10-09-hyperframes-deterministic-video.md)
 - [2026-10-10｜不裝它，只讀它：一座把「導演法」寫成文件的代碼電影圖書館](notes/2026-10-10-lemo-opuscar-film-styles.md)
 - [2026-10-12｜指纹不是一个值，是一套互相核对的系统](notes/2026-10-12-fingerprint-is-a-system.md)
+- [2026-10-13｜记忆分几层，错误分几型](notes/2026-10-13-layered-memory-context-degradation.md)
