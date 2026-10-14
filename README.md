@@ -11,3 +11,4 @@
 - [2026-10-10｜不裝它，只讀它：一座把「導演法」寫成文件的代碼電影圖書館](notes/2026-10-10-lemo-opuscar-film-styles.md)
 - [2026-10-12｜指纹不是一个值，是一套互相核对的系统](notes/2026-10-12-fingerprint-is-a-system.md)
 - [2026-10-13｜记忆分几层，错误分几型](notes/2026-10-13-layered-memory-context-degradation.md)
+- [2026-10-14｜好工具的标准，不在功能表，在接口](notes/2026-10-14-agent-operable-pipeline.md)
