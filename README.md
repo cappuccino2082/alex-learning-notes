@@ -12,3 +12,4 @@
 - [2026-10-12｜指纹不是一个值，是一套互相核对的系统](notes/2026-10-12-fingerprint-is-a-system.md)
 - [2026-10-13｜记忆分几层，错误分几型](notes/2026-10-13-layered-memory-context-degradation.md)
 - [2026-10-14｜好工具的标准，不在功能表，在接口](notes/2026-10-14-agent-operable-pipeline.md)
+- [2026-10-16｜稿子是真相源，音訊是主時鐘](notes/2026-10-16-master-clock-and-editable-drafts.md)
