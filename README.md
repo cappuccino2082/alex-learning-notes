@@ -14,3 +14,4 @@
 - [2026-10-14｜好工具的标准，不在功能表，在接口](notes/2026-10-14-agent-operable-pipeline.md)
 - [2026-10-15｜裝之前，先掃一遍：讓 LLM 作證，不讓它翻案](notes/2026-10-15-scan-before-you-install.md)
 - [2026-10-16｜稿子是真相源，音訊是主時鐘](notes/2026-10-16-master-clock-and-editable-drafts.md)
+- [2026-10-17｜別投票，驗證：細粒度打分與 Pass^3](notes/2026-10-17-fine-grained-verification.md)
