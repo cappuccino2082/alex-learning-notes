@@ -17,3 +17,5 @@
 - [2026-10-17｜別投票，驗證：細粒度打分與 Pass^3](notes/2026-10-17-fine-grained-verification.md)
 - [2026-10-18｜檢測不是找機器人，是做跨層一致性審計](notes/2026-10-18-cross-layer-consistency-audit.md)
 - [2026-10-19｜機械感不在單句，在分佈：音頻交付前的三層預檢](notes/2026-10-19-measure-the-distribution.md)
+- [2026-10-20｜同步的精度，在開剪之前就決定了](notes/2026-10-20-word-level-timestamps.md)
+- [2026-10-21｜知識要編譯，不要每次重查](notes/2026-10-21-compile-dont-retrieve.md)
