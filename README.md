@@ -19,3 +19,4 @@
 - [2026-10-19｜機械感不在單句，在分佈：音頻交付前的三層預檢](notes/2026-10-19-measure-the-distribution.md)
 - [2026-10-20｜同步的精度，在開剪之前就決定了](notes/2026-10-20-word-level-timestamps.md)
 - [2026-10-21｜知識要編譯，不要每次重查](notes/2026-10-21-compile-dont-retrieve.md)
+- [2026-10-22｜中斷不是重來：把進度存成檢查點](notes/2026-10-22-checkpoint-dont-restart.md)
