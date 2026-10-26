@@ -21,3 +21,4 @@
 - [2026-10-21｜知識要編譯，不要每次重查](notes/2026-10-21-compile-dont-retrieve.md)
 - [2026-10-22｜中斷不是重來：把進度存成檢查點](notes/2026-10-22-checkpoint-dont-restart.md)
 - [2026-10-26｜被擋住時，先分層，別先換 IP](notes/2026-10-26-block-diagnosis-ladder.md)
+- [2026-10-27｜Skill 不是提示詞，是帶驗收的契約](notes/2026-10-27-skill-is-a-verifiable-contract.md)
