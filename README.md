@@ -23,5 +23,7 @@
 - [2026-10-26｜被擋住時，先分層，別先換 IP](notes/2026-10-26-block-diagnosis-ladder.md)
 - [2026-10-27｜Skill 不是提示詞，是帶驗收的契約](notes/2026-10-27-skill-is-a-verifiable-contract.md)
 - [2026-10-29｜簡報絕不能假裝全查過：缺源要寫成警告](notes/2026-10-29-briefing-must-name-missing-sources.md)
+- [2026-10-30｜一源多發，先有原子層：改寫不是縮寫](notes/2026-10-30-one-source-atoms-before-repurposing.md)
+- [2026-10-31｜多家分派，先有網關：降級不丟單的三件套](notes/2026-10-31-multi-provider-gateway-fallback.md)
 - [2026-11-01｜養會話：讓登入態活下去的紀律](notes/2026-11-01-session-hygiene-keeping-logins-alive.md)
 - [2026-11-02｜沒收據，不結案：交接的證據規格](notes/2026-11-02-no-receipt-no-trust.md)
