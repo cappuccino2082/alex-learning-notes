@@ -24,3 +24,4 @@
 - [2026-10-27｜Skill 不是提示詞，是帶驗收的契約](notes/2026-10-27-skill-is-a-verifiable-contract.md)
 - [2026-10-29｜簡報絕不能假裝全查過：缺源要寫成警告](notes/2026-10-29-briefing-must-name-missing-sources.md)
 - [2026-11-01｜養會話：讓登入態活下去的紀律](notes/2026-11-01-session-hygiene-keeping-logins-alive.md)
+- [2026-11-02｜沒收據，不結案：交接的證據規格](notes/2026-11-02-no-receipt-no-trust.md)
