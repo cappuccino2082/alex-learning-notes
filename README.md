@@ -27,3 +27,4 @@
 - [2026-10-31｜多家分派，先有網關：降級不丟單的三件套](notes/2026-10-31-multi-provider-gateway-fallback.md)
 - [2026-11-01｜養會話：讓登入態活下去的紀律](notes/2026-11-01-session-hygiene-keeping-logins-alive.md)
 - [2026-11-02｜沒收據，不結案：交接的證據規格](notes/2026-11-02-no-receipt-no-trust.md)
+- [2026-11-03｜播音是三段式產線：標記、分塊、驗收](notes/2026-11-03-tts-control-surface.md)
