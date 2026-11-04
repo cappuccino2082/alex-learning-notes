@@ -28,3 +28,5 @@
 - [2026-11-01｜養會話：讓登入態活下去的紀律](notes/2026-11-01-session-hygiene-keeping-logins-alive.md)
 - [2026-11-02｜沒收據，不結案：交接的證據規格](notes/2026-11-02-no-receipt-no-trust.md)
 - [2026-11-03｜播音是三段式產線：標記、分塊、驗收](notes/2026-11-03-tts-control-surface.md)
+- [2026-11-04｜發布自動化是三層風險模型：選層即選風險](notes/2026-11-04-upload-automation-three-risk-layers.md)
+- [2026-11-05｜委派失敗不是模型不夠強，是契約不夠狠](notes/2026-11-05-delegation-discipline-is-the-contract.md)
