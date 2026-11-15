@@ -37,3 +37,6 @@
 - [2026-11-10｜影片要確定，先讓時間變成純函數](notes/2026-11-10-deterministic-video-vawe.md)
 - [2026-11-11｜助手住進聊天軟體之後，邊界要寫成程式碼](notes/2026-11-11-assistant-in-your-chats.md)
 - [2026-11-12｜長文寫作工作站的三件套](notes/2026-11-12-long-form-writing-workstation.md)
+- [2026-11-13｜買 IP 之前，先驗 IP](notes/2026-11-13-check-ip-before-you-buy-it.md)
+- [2026-11-14｜儀表板不是黑盒子](notes/2026-11-14-dashboard-is-not-black-box.md)
+- [2026-11-15｜長篇朗讀的自然感，不在模型，在模型外面那一層](notes/2026-11-15-long-form-tts-prosody.md)
