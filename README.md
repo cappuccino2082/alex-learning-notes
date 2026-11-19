@@ -42,3 +42,5 @@
 - [2026-11-15｜長篇朗讀的自然感，不在模型，在模型外面那一層](notes/2026-11-15-long-form-tts-prosody.md)
 - [2026-11-16｜字幕的功夫在切分與對齊，不在翻譯](notes/2026-11-16-subtitle-craft-cutting-alignment.md)
 - [2026-11-17｜排程任務的紀律不在提示詞，在每一次執行的帳本](notes/2026-11-17-scheduled-run-ledger.md)
+- [2026-11-18｜先拆成原子，再按平台重塑](notes/2026-11-18-content-atomization-before-repurposing.md)
+- [2026-11-19｜指紋要像真機器，不要像修補過的機器](notes/2026-11-19-coherent-fingerprints-not-patches.md)
