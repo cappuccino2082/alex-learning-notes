@@ -44,3 +44,6 @@
 - [2026-11-17｜排程任務的紀律不在提示詞，在每一次執行的帳本](notes/2026-11-17-scheduled-run-ledger.md)
 - [2026-11-18｜先拆成原子，再按平台重塑](notes/2026-11-18-content-atomization-before-repurposing.md)
 - [2026-11-19｜指紋要像真機器，不要像修補過的機器](notes/2026-11-19-coherent-fingerprints-not-patches.md)
+- [2026-11-20｜先驗過，再信任](notes/2026-11-20-evaluate-before-you-trust-a-skill.md)
+- [2026-11-21｜參考音頻就是表演指導](notes/2026-11-21-reference-clip-is-the-direction.md)
+- [2026-11-22｜先出計畫，再動刀](notes/2026-11-22-cut-plan-before-you-cut.md)
