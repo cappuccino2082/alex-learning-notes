@@ -49,3 +49,4 @@
 - [2026-11-22｜先出計畫，再動刀](notes/2026-11-22-cut-plan-before-you-cut.md)
 - [2026-11-23｜先決定報不報，再決定怎麼送](notes/2026-11-23-decide-before-you-deliver.md)
 - [2026-11-24｜文字不要讓模型畫，要讓程式排](notes/2026-11-24-text-is-typeset-not-drawn.md)
+- [2026-11-25｜任務有狀態，不是只有一句話](notes/2026-11-25-task-state-not-a-message.md)
