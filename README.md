@@ -51,3 +51,4 @@
 - [2026-11-24｜文字不要讓模型畫，要讓程式排](notes/2026-11-24-text-is-typeset-not-drawn.md)
 - [2026-11-25｜任務有狀態，不是只有一句話](notes/2026-11-25-task-state-not-a-message.md)
 - [2026-11-26｜排程是預測，不是間隔表](notes/2026-11-26-schedule-by-prediction-not-by-calendar.md)
+- [2026-11-27｜先量測，再封鎖](notes/2026-11-27-measure-before-you-block.md)
